@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\Decoded\bin\Debug\Decoded.exe.config
+d:\documents\visual studio 2015\Projects\Decoded\bin\Debug\Decoded.exe
+d:\documents\visual studio 2015\Projects\Decoded\bin\Debug\Decoded.pdb
+d:\documents\visual studio 2015\Projects\Decoded\obj\Debug\Decoded.exe
+d:\documents\visual studio 2015\Projects\Decoded\obj\Debug\Decoded.pdb
